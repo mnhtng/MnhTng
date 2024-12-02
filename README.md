@@ -12,9 +12,9 @@
 
 # 📱 Connect with me:
 <p align="left">
-<a href="[https://linkedin.com/in/mnhtng](https://www.linkedin.com/in/mnh-tng-080555326/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnhtng" height="30" width="40" /></a>
-<a href="[https://fb.com/manh tung](https://www.facebook.com/do.manhtung.18/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manh tung" height="30" width="40" /></a>
-<a href="[https://instagram.com/mnhtng](https://www.instagram.com/mnh.tng/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnhtng" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mnh-tng-080555326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnhtng" height="30" width="40" /></a>
+<a href="https://www.facebook.com/do.manhtung.18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manh tung" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mnh.tng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnhtng" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
