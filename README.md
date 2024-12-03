@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from Vietnam</h3>
 <img align="right" height="200" src="https://i.pinimg.com/originals/f0/dc/69/f0dc698db594b0434d8cd157badc8260.gif"  />
 
-- 👨‍💻 All of my projects are available at [https://github.com/MnhTng](https://github.com/MnhTng)
+- 👨‍💻 All of my projects are available at [https://github.com/MnhTng](https://github.com/MnhTng?tab=repositories)
 
 - 💬 Ask me about **Java, PHP, Javascript and so more ...**
 
