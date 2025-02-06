@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnhTng&layout=compact&theme=radical)
 
 # 🐦‍🔥 Github Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MnhTng&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 # 🏆 GitHub Trophies: 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MnhTng&theme=onedark&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
