@@ -33,7 +33,7 @@
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mnhtng/contributions?format=svg&private=false)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MnhTng&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mnhtng&icon=2&color=4)](https://visitcount.itsvg.in)
 
 ------
 
