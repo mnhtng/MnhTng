@@ -24,7 +24,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MnhTng&show_icons=true&theme=radical&bg_color=141029)
 
 # 🎨 Github Language Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnhtTng&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnhTng&layout=compact&theme=radical)
 
 # 🏆 GitHub Trophies: 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MnhTng&theme=onedark&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
