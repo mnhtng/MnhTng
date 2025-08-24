@@ -26,9 +26,6 @@
 # 🎨 Github Language Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnhTng&layout=compact&theme=radical)
 
-# 🏆 GitHub Trophies: 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MnhTng&theme=monokai&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 # ✨ Github Badge:
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mnhtng/contributions?format=svg&private=false)  
 
