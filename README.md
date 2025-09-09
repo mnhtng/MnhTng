@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MnhTng](https://github.com/MnhTng?tab=repositories)
 
-- 💬 Ask me about **Java, PHP, Javascript and so more ...**
+- 💬 Ask me about **JS, PHP, React and so more ...**
 
 - 📫 How to reach me **domanhtung1404@gmail.com**
 
